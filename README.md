@@ -1,6 +1,6 @@
 # ⚙️ Architettura-degli-Elaboratori
 
-Indice generale per navigare nelle risorse del corso **Architettura degli Elaboratori 2023/2024 - Prof. nomeprof**
+Indice generale per navigare nelle risorse del corso **Architettura degli Elaboratori 2023/2024 - Prof. Alessandro Checco**
 
 ## 🔹 Esami
 Raccolta di esercizi di esami passati.
