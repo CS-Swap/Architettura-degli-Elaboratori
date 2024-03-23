@@ -9,7 +9,7 @@ Raccolta di esercizi di esami passati.
 Raccolta di esercizi proposti a lezione 
 > [Carica un esercizio](https://github.com/CS-Swap/Metodologie-di-Programmazione/issues/new) (add template)
 
-**Assemmbly (mips):**
+**Assembly (MIPS):**
 
 ## 🔹 Materiale
 Materiale caricato da studenti
