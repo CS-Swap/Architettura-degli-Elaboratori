@@ -1,10 +1,9 @@
-title: "[GG/MESE/AAAA] - Assembly MIPS"
+title: "[GG/MESE/AAAA] - assembly-mips"
 labels: ["To-Do", "Assembly"]
 body:
 - type: textarea
   attributes:
     label: Traccia Esercizio
-    description: Inserisci qui la traccia o una foto dell\'esercizio, se presente anche la soluzione del Prof
-    value: [Traccia o foto]\n<details><summary>Soluzione Prof</summary><p> Inserisci qui la soluzione del prof o cancella il blocco se non presente</p></details> 
+    description: Inserisci qui la traccia o una foto dell'esercizio, se presente anche la soluzione del Prof
   validations:
     required: true
