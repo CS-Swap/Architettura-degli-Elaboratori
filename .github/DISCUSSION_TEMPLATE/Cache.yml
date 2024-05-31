@@ -1,0 +1,15 @@
+title: "[GG/MM/AAAA] - Cache"
+labels: ["To-Do", "Cache"]
+body:
+- type: textarea
+  attributes:
+    label: Traccia Esercizio
+    description: Inserisci qui la traccia o una foto dell'esercizio
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Soluzione Prof (se presente)
+    description: Inserisci la soluzione del Prof se presente
+  validations:
+    required: false
