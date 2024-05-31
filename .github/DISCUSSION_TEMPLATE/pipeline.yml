@@ -1,4 +1,4 @@
-title: "[GG/MESE/AAAA] - pipeline"
+title: "[GG/MESE/AAAA] - Pipeline"
 labels: ["To-Do", "Pipeline"]
 body:
 - type: textarea
