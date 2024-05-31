@@ -1,5 +1,5 @@
 title: "[GG/MESE/AAAA] - Assembly MIPS"
-labels: ["To-Do", "Assembly"]
+labels: ["To-Do", "Assembly", "Aggiornare Index"]
 body:
 - type: textarea
   attributes:
