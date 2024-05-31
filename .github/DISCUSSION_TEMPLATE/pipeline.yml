@@ -1,5 +1,5 @@
 title: "[GG/MESE/AAAA] - Pipeline"
-labels: ["To-Do", "Pipeline"]
+labels: ["To-Do", "Pipeline", "Aggiornare Index"]
 body:
 - type: textarea
   attributes:
