@@ -1,5 +1,5 @@
 title: "[GG/MESE/AAAA] - Modifica Architettura"
-labels: ["To-Do", "Modifica CPU"]
+labels: ["To-Do", "Modifica CPU", "Aggiornare Index"]
 body:
 - type: textarea
   attributes:
