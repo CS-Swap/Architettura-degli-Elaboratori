@@ -1,5 +1,5 @@
 title: "[GG/MESE/AAAA] - Cache"
-labels: ["To-Do", "Cache"]
+labels: ["To-Do", "Cache", "Aggiornare Index"]
 body:
 - type: textarea
   attributes:
