@@ -1,0 +1,9 @@
+title: "[GG/MESE/AAAA] - Assembly MIPS"
+labels: ["To-Do", "Assembly"]
+body:
+- type: textarea
+  attributes:
+    label: Traccia Esercizio
+    description: Inserisci qui la traccia o una foto dell'esercizio, se presente anche la soluzione del Prof
+  validations:
+    required: true

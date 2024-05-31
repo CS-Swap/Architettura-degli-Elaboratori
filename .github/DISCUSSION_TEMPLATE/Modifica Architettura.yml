@@ -1,0 +1,9 @@
+title: "[GG/MESE/AAAA] - Modifica Architettura"
+labels: ["To-Do", "Modifica CPU"]
+body:
+- type: textarea
+  attributes:
+    label: Traccia Esercizio
+    description: Inserisci qui la traccia o una foto dell'esercizio, se presente anche la soluzione del Prof
+  validations:
+    required: true
